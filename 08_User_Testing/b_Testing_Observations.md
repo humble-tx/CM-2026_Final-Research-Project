@@ -1,8 +1,3 @@
-
-
-
-
-
 # Testing Observations
 
 ## Test Session 1 – First-person Prototype
@@ -21,7 +16,7 @@ Most players did not realise that they were experiencing Pong from the perspecti
 
 This led me to search for another way to communicate the identity of the ball, which later introduced sound and vibration feedback.
 
----
+<br><br>
 
 ## Test Session 2 – PS5 Vibration Prototype
 
@@ -39,7 +34,7 @@ Players could recognise themselves as the ball without any instructions.
 
 Although the identity problem was solved, players quickly became bored. This encouraged me to redesign the gameplay structure.
 
----
+<br><br>
 
 ## Test Session 3 – Narrative Interpretation
 
@@ -65,7 +60,7 @@ Instead of adding dialogue, I continued using non-verbal methods such as vibrati
 
 I introduced clearer visual progression by changing the size of the circular boundary after each score.
 
----
+<br><br>
 
 ## Test Session 4 – Hardware Prototype
 
@@ -83,7 +78,7 @@ Even when the hardware did work, the timing of repeated collisions was difficult
 
 I switched from MPU9250 to MPU6050 and experimented with different battery and MOSFET configurations.
 
----
+<br><br>
 
 ## Test Session 5 – Keyboard vs Ball Controller
 
